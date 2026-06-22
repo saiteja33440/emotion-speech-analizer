@@ -1,7 +1,8 @@
+streamlit
 numpy
 pandas
 librosa
 scikit-learn
 tensorflow
-flask
 joblib
+soundfile
