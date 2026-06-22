@@ -5,3 +5,7 @@ librosa
 scikit-learn
 joblib
 soundfile
+tensorflow==2.16.1
+openai-whisper
+audio-recorder-streamlit
+plotly
