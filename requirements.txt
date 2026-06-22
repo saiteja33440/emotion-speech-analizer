@@ -8,3 +8,4 @@ soundfile
 plotly
 audio-recorder-streamlit
 openai-whisper
+tensorflow-cpu==2.16.1
